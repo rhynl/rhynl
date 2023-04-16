@@ -18,7 +18,7 @@
   </a>
   <a href="https://app.daily.dev/rhynl" target="_blank">
     <img
-      src="https://github.com/rhynl/rhynl/blob/main/devcard.svg"
+      src="https://raw.githubusercontent.com/rhynl/rhynl/devcard/devcard.svg"
       width="256"
       align="right"
       alt="Rhay's Dev Card"
@@ -26,7 +26,7 @@
   </a>
 </div>
 
-## I'm Rhaynel (Rhay) Parra
+## I'm Rhay
 
 - Software Developer and Architect
 - Loves reading a good murder mystery book

@@ -30,3 +30,8 @@
 
 - Software Developer and Architect
 - Loves reading a good murder mystery book
+- Husband of Betzabeth and father of Emma
+
+![Metrics](https://raw.githubusercontent.com/rhynl/rhynl/metrics/github-metrics.svg)
+![Achievements](https://raw.githubusercontent.com/rhynl/rhynl/metrics/achievements.svg)
+![Rhay's Mind](https://raw.githubusercontent.com/rhynl/rhynl/metrics/posts.svg)

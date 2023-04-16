@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**rhynl/rhynl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <a href="https://twitter.com/_rhynl_">
+    <img alt="https://twitter.com/_rhynl_" src="https://img.shields.io/twitter/url?color=1da1f2&label=Twitter&logo=twitter&logoColor=ffffff&style=flat-square&url=https%3A%2F%2Ftwitter.com%2F_rhynl_">
+  </a>
+  <a href="https://www.linkedin.com/in/rhynl/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <a rel="me" href="https://mastodon.online/@rhay">
+    <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109909737638431176?color=blueviolet&domain=https%3A%2F%2Fmastodon.online&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square">
+  </a>
+  <a rel="me" href="https://exercism.org/profiles/rhynl" target="_blank">
+    <img alt="Mastodon Follow" src="https://img.shields.io/static/v1?logo=exercism&style=flat-square&color=130b43&label=Exercism&message=%E2%99%A5%EF%B8%8F&logoColor=white">
+  </a>
+  <a href="https://app.daily.dev/rhynl" target="_blank">
+    <img
+      src="https://github.com/rhynl/rhynl/blob/main/devcard.svg"
+      width="256"
+      align="right"
+      alt="Rhay's Dev Card"
+    />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## I'm Rhaynel (Rhay) Parra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Developer and Architect
+- Loves reading a good murder mystery book

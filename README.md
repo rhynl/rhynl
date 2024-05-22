@@ -35,4 +35,4 @@
 ![Metrics](https://raw.githubusercontent.com/rhynl/rhynl/metrics/github-metrics.svg)
 ![Rhay's Mind](https://raw.githubusercontent.com/rhynl/rhynl/metrics/posts.svg)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d64d89aa497d7fa526fbe3?variant=dark&roadmaps=software-architect%2Cnodejs%2Cgolang%2Cbackend)](https://roadmap.sh/befriend?u=64d64d89aa497d7fa526fbe3)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d64d89aa497d7fa526fbe3?variant=dark&roadmaps=software-architect%2Cnodejs%2Cgolang%2Cbackend)](https://roadmap.sh/u/rhynl)
